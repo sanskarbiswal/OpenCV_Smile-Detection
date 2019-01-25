@@ -6,17 +6,22 @@ The present project only detects smiles from the front profile of the user. The 
 
 # Requirements
 System Equipped with Webcam
+
 Python 3x (Tested on Python 3.6.7)
+
 OpenCV
 
 Note: Tested on Windows 10
 
 # Get Python and OpenCV
-The latest version of Python can be downloaded from https://python.org/ 
-Install OpenCV in python.
 
-Windows: 
+The latest version of Python can be downloaded from https://python.org
+
+Install OpenCV in python.
+On a Windows System: 
+
 Open Command Prompt and enter: python -m pip install opencv-python
+
 If you have both python2 and python3 on your system, : python3 -m pip install opencv-python
 
 # Note and Future Development:
